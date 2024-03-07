@@ -1,0 +1,3 @@
+['bat', 'wings', 'fangs', 'blood', 'vampire', 'drains', 'mammal', 'cave', 'darkness', 'dusk', 'screeches', 'echolocation', 'blind', 'rabies', 'swoop']
+
+['vampire', 'nocturnal', 'insectivore', 'megabat', 'microbat', 'hematophagy', 'frugivore', 'wing', 'bird', 'skin', 'patagium', 'guano', 'pathogen', 'pterosaur', 'blood', 'hibernation', 'mammal', 'flight', 'dusk', 'dawn', 'echolocation', 'predator', 'rabies', 'cave', 'ultrasound']
